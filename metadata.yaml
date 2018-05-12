@@ -1,0 +1,32 @@
+_repo: Le-tr-sor-de-la-cit--des-dames-de-degr--en-degr--et-de-tous-estatz_26608
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Christine, de Pisan
+    aliases:
+    - Pizan, Christine de
+    - Pisan, Christine de
+    - Pisan, Christiné de
+    birthdate: 1363
+    deathdate: 1430
+    gutenberg_agent_id: '4613'
+    url: http://www.gutenberg.org/2009/agents/4613
+    wikipedia: http://en.wikipedia.org/wiki/Christine_de_Pizan
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2008-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26608'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women'
+- !lcc 'PQ'
+title: Le trésor de la cité des dames de degré en degré et de tous estatz
+url: http://www.gutenberg.org/ebooks/26608
